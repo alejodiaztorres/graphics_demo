@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  beer: MyString
+  amount: 1
+  date_time: 2020-06-25 00:21:59
+
+two:
+  beer: MyString
+  amount: 1
+  date_time: 2020-06-25 00:21:59
